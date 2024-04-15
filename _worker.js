@@ -14,7 +14,7 @@ let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
-let DELAY = 180;//延迟上限
+let DELAY = 400;//延迟上限
 let addressescsv = [
 	'https://raw.githubusercontent.com/fengwencai/WARP2sub/main/result.csv', //warp-yxip测速结果文件。
 ];
